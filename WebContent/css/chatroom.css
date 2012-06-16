@@ -1,0 +1,36 @@
+@CHARSET "UTF-8";
+#table{
+	font-family: Arial, Sans-Serif;
+	font-size: 18px;
+	background-color: #d6e5f4;
+	white-space: nowrap;
+	padding: 8px;
+    margin: 5px 5px 5px 5px;
+}
+
+#messages{
+	border:1px solid #999;
+	width: 600px; height: 400px;
+}
+
+#sendmessage{
+	border:	1px groove #666;
+	width: 550px; height: 18px;
+	margin: 1px 0px 1px 0px;
+	padding: 3px 3px 3px 3px;
+	scrollbar-face-color:#d6e5f4;
+}
+
+.button{
+	font-family: Arial, Sans-Serif;
+	border:1px solid #999;
+    border-right-color:#333;
+    border-bottom-color:#333;
+	font-weight: bold;  
+	cursor: pointer;  
+	color: #000;
+	margin: 1px 1px 1px 1px;
+	padding: 3px 3px 3px 3px;
+	background-color: #afafaf;
+	text-align:center;
+}

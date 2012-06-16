@@ -1,0 +1,67 @@
+@CHARSET "UTF-8";
+form#make{
+	width: 20em;
+	height: 10em;
+	}
+	
+#h1{
+	font-family: Arial, Sans-Serif;
+}
+	
+.headexplain{
+    font-family: Arial, Sans-Serif;
+    color: #444;
+	margin: 10px;
+	padding: 0px 0px 0px 0px;
+	font-size: 20px;
+	line-height: 50px;
+	letter-spacing: 1px;
+	font-weight: bold;
+	
+}
+	
+#table{
+	font-family: Arial, Sans-Serif;
+	white-space: nowrap;		  
+    font-size: 15px;
+    background-color: #d6e5f4;
+    padding: 10px;
+    margin: 0px 0px 0px 0px;
+    border-spacing: 10px 10px ;
+}
+#tablebutton{
+	text-align:center;
+
+}
+
+.field{
+	width: 200px; height: 20px;
+}
+
+.roomlistfield{
+	font-family: Arial, Sans-Serif;
+	font-size: 14px;
+	padding: 4px;
+	font-size: 14px;
+}
+
+.roomlist{
+	font-family: Arial, Sans-Serif;
+	font-size: 14px;
+	background-color: #d6e5f4;
+	padding: 10px;
+	font-size: 14px;
+}
+
+.rounded{
+	font-family: Arial, Sans-Serif;
+    border:1px solid #999;
+    border-right-color:#333;
+    border-bottom-color:#333;
+	padding: 5px 20px;
+	margin: 0 2px;
+	font-weight: bold;  
+	cursor: pointer;  
+	color: #000; 
+	background-color: #afafaf;
+}
